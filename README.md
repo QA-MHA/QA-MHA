@@ -1,4 +1,32 @@
-### Hi there 👋
+### Hi there!👋 Welcome to my gitHub profil, I am Mohamed :man_technologist:
+
+
+:handshake: Experienced Application Consultant with a demonstrated history of working in the information technology and services industry. Strong information technology professional skilled in software testing, automation and product ownership in industries like Smart Buildings, IoT, Retail & SupplyChain, CRMs and Quality Control. :handshake:
+
+:medal_sports: **CERTIFICATIONS :**
+
+
+
+- :ticket: **_ISTQB Foundation Level_**
+
+<a href="https://www.istqb.org/certifications/certified-tester-foundation-level-v3-1"> <img width="150" alt="Screenshot 2023-08-16 at 10 20 08" src="https://github.com/QA-MHA/QA-MHA/assets/62247967/54da7bcc-41ad-4a84-8b3a-b593a5b10eb5" height="150"> </a>
+
+- :ticket: **_ISTQB Test Automation Eng. - Advanced Level_**
+
+<a href=”[https://www.google.com](https://www.istqb.org/certifications/test-automation-engineer)“> <img width="217" alt="Screenshot 2023-08-16 at 10 27 00" src="https://github.com/QA-MHA/QA-MHA/assets/62247967/414aab16-4ea3-47cc-bb49-87fe3c8a2ffe"> </a>
+
+
+
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **QA-MHA/QA-MHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
